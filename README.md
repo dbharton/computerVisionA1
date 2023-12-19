@@ -1,5 +1,3 @@
-# svujjin-apore-dbharton-sajairam-a1
-
 # Part  0:  Denoise Pichu
 
 ## Statement : 
